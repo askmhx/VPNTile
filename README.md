@@ -8,4 +8,4 @@ android vpn quick settings tile
 
 ----
 
-部分资源来源于 *** https://github.com/banasiak/OpenVPNTile ***
+部分资源来源于 ***https://github.com/banasiak/OpenVPNTile***
